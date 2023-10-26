@@ -15,7 +15,7 @@ public class BoundaryLibererEtal {
 		}else{
 			String [] donneesEtal = controlLibererEtal.libererEtal(nomVendeur);
 			System.out.println("Vous avez vendu " +donneesEtal[4]+ " sur " +donneesEtal[3]+ " " +donneesEtal[2]+ "\r\n");
-			System.out.println("Au revoir " +nomVendeur+ " passez une bonne journée.\r\n");
+			System.out.println("Au revoir " +nomVendeur+ ", passez une bonne journée.\r\n");
 		}
 	}
 
